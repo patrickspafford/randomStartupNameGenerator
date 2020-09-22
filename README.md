@@ -1,4 +1,4 @@
-# my_app
+# Random Startup Name Generator
 
 A new Flutter project.
 
